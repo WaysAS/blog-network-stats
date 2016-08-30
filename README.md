@@ -1,6 +1,6 @@
-# Most Viewed Network Sites
+# Top Network Posts
 
-List over most viewed sites in a wordpress multisite network.
+Display a list of top blog posts in a Wordpress Network site.
 
 ## Installation
 
