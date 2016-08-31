@@ -5,6 +5,8 @@ Makes two widgets available:
 1. Shows yesterday's 30 most read blog posts between all sites in a Wordpress network.
 2. Shows the top 30 overall most read blogs as of the last 7 days (1 week).
 
+![Preview of plugin](http://d.pr/i/1bzgt/4qa5MawF.png)
+
 ## Installation
 
 Add plugin folder to `wp-content/plugins/`.
